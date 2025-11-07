@@ -1,0 +1,37 @@
+# 1 CRIE UMA FUNÇÃO PARA COMPARAR 2 NÚMEROS (par ou impar). UTILIZE VARIÁVEIS LOCAIS.
+
+
+
+
+# 2 CRIE UMA FUNÇÃO PARA MULTIPLICAR 3 NUMEROS.
+
+# def multiplicação():
+#         n1 = int(input('digite um numero:'))
+#         n2 = int(input('digite um numero:'))
+#         n3 = int(input('digite um numero:'))
+#         resultado = n1 * n2 * n3
+#         print (resultado)
+
+# multiplicação()
+
+
+# 3 CRIE UMA FUNÇÃO PARA DESCOBRIR O VALOR ELEVADO DE UM NÚMERO.
+
+
+
+# 4 CRIE UMA FUNÇÃO PARA MOSTRAR UMA MENSAGEM PERSONALIZADA NA TELA, SE O USUÁRIO  DIGITAR, 18 ANOS.
+        
+
+# 5 DESENVOLVA UMA FUNÇÃO PARA DESCOBRIR A IDADE DE UMA PESSOA.
+
+
+# 6 DESENVOLVA UMA FUNÇÃO PARA VER SE O BRASIL GANHOU A COPA DE 1999.
+
+
+# 7 DESENVOLVA UM SISTEMA DE RESTAURANTE, ONDE O CLIENTE TEM OPÇÃO DE ESCOLHER ENTRE SALADA, MACARRONADA, SANDUICHE, SORVETE.
+
+# 1 - Função -  cumprimentar o cliente
+
+# 2 - Função - restaurante
+
+# 3 - Sugestão utilize listas  e loops
